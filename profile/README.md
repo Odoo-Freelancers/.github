@@ -2,8 +2,6 @@
 
 > Connecting Businesses with Trusted Odoo Experts Worldwide
 
-> **Note:** Place `logo.png` in the same folder as this README.
-
 <div align="center">
 
 <img src="./logo.png" alt="OFL Logo" width="180"/>
