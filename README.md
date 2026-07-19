@@ -60,13 +60,13 @@ Whether you're looking for customization, implementation, migration, integration
 - GitHub: https://github.com/Odoo-Freelancers
 - LinkedIn: https://www.linkedin.com/company/odoofreelancers
 - Facebook: https://www.facebook.com/odoofreelancers
-- X: https://x.com/odoofreelancer
-- Instagram: https://www.instagram.com/odoofreelancers
+- X: https://x.com/oflodoo
+- Instagram: https://www.instagram.com/odoofreelancers.official
 - YouTube: https://www.youtube.com/@odoofreelancers
 
 ## 📫 Contact
 
-**Email:** contact@odoofreelancers.com
+**Email:** info@odoofreelancers.com
 
 ---
 
